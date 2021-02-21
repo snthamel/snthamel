@@ -4,7 +4,6 @@
 
 I'm a Senior Software Engineer @ [Ceylon Solutions](https://www.ceylonsolutions.com/), working as a fulltime backend developer for [Simplifya project](https://www.simplifya.com/)
 
-- 🌱 I’m currently learning [Oracle MOOC: Node JS Microservices for Oracle Cloud](https://github.com/snthamel/oracle-mooc-node-js)
 - 💬 Ask me about JavaScript, Laravel and Movies and Games 
 - 📫 Reach me on [Twitter](https://twitter.com/shehanthamel) or [LinkedIn](https://www.linkedin.com/in/shehan-thamel/) or [send me a mail](mailto:snthamel.lanka@gmail.com)
 - 😄 Pronouns: He/Him
