@@ -26,6 +26,7 @@ I'm a Senior Software Engineer @ [Ceylon Solutions](https://www.ceylonsolutions.
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![JIRA](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=snthamel&count_private=true&theme=dark&show_icons=true&hide=stars,issues&cache_seconds=86400)](https://github.com/snthamel)
 
