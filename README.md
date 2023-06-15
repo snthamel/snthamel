@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Software Engineer @ [arive GmbH](https://www.getarive.com/), working as a fulltime backend developer for **arive - 30min delivery** [iOS](https://apps.apple.com/de/app/arive-30min-delivery/id1567030084?l=en) | [Android](https://play.google.com/store/apps/details?id=co.shopney.arivejiiqtapp)
+I'm a Software Engineer @ [Forto Logistics SE & Co. KG](https://forto.com/), working as a backend engineer 
 
 - 💬 Ask me about JavaScript, Laravel and Movies and Games 
 - 📫 Reach me on [Twitter](https://twitter.com/shehanthamel) or [LinkedIn](https://www.linkedin.com/in/shehan-thamel/) or [send me a mail](mailto:snthamel.lanka@gmail.com)
