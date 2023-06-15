@@ -28,7 +28,7 @@ I'm a Software Engineer @ [Forto Logistics SE & Co. KG](https://forto.com/), wor
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JIRA](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-<!--[![Github stats](https://github-readme-stats.vercel.app/api?username=snthamel&count_private=true&theme=dark&show_icons=true&hide=stars,issues&cache_seconds=86400)](https://github.com/snthamel) -->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=snthamel&count_private=true&theme=dark&show_icons=true&hide=stars,issues&cache_seconds=86400)](https://github.com/snthamel)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=snthamel)
 
